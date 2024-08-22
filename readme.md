@@ -1,17 +1,20 @@
 # Proyectos
 
 ## BlogDeCafe-sng
-[![BlogDeCafe-sng](https://ruta_de_la_imagen.com/blogdecafe.png)](https://blog-cafe-sng.vercel.app/?vercelToolbarCode=EjWcv0fDSC3Mpna)
-[Visita el proyecto](https://blog-cafe-sng.vercel.app/?vercelToolbarCode=EjWcv0fDSC3Mpna)
+<a href="https://blog-cafe-sng.vercel.app/?vercelToolbarCode=EjWcv0fDSC3Mpna">
+    <img src="/img_webs_sng/blog_cafe.PNG" alt="BlogDeCafe-sng" width="300"/>
+</a>
 
 ## FestivalMusica-sng
-[![FestivalMusica-sng](https://ruta_de_la_imagen.com/festivalmusica.png)](https://festivalmusica-sng.netlify.app)
-[Visita el proyecto](https://festivalmusica-sng.netlify.app)
+<a href="https://festivalmusica-sng.netlify.app">
+    <img src="/img_webs_sng/rock_festival.PNG" alt="FestivalMusica-sng" width="300"/>
+</a>
 
 ## FrontEndStore
-[![FrontEndStore](https://ruta_de_la_imagen.com/frontendstore.png)](https://sng-proyecto-tienda-ropa.netlify.app)
-[Visita el proyecto](https://sng-proyecto-tienda-ropa.netlify.app)
-
+<a href="https://sng-proyecto-tienda-ropa.netlify.app">
+    <img src="/img_webs_sng/tienda_ropa.PNG" alt="FrontEndStore" width="300"/>
+</a>
 ## FreeLancer_Inicio
-[![FreeLancer_Inicio](https://ruta_de_la_imagen.com/freelancer.png)](https://sng-primer-proyecto-web.netlify.app)
-[Visita el proyecto](https://sng-primer-proyecto-web.netlify.app)
+<a href="https://sng-primer-proyecto-web.netlify.app">
+    <img src="/img_webs_sng/freelance_silvio.PNG" alt="FreeLancer_Inicio" width="300"/>
+</a>
